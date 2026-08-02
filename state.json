@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "semgrep_output_format": {
+      "prose": 1
+    }
+  },
+  "runs": [
+    {
+      "run_id": "30736507055",
+      "timestamp": "2026-08-02T06:46:49.179Z",
+      "assignments": {
+        "semgrep_output_format": "prose"
+      }
+    }
+  ]
+}
