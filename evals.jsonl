@@ -1,2 +1,2 @@
-{"id":"eslint_patterns_mined","question":"Did the agent analyze JavaScript or TypeScript patterns to identify a useful ESLint rule?","answer":"UNKNOWN","model":"small","timestamp":"2026-08-01T10:24:00.798Z","runid":"30695495538"}
-{"id":"rule_pr_created_or_noop","question":"Did the agent create a pull request for a new ESLint rule, or use noop when no suitable rule was found?","answer":"UNKNOWN","model":"small","timestamp":"2026-08-01T10:24:00.798Z","runid":"30695495538"}
+{"id":"eslint_patterns_mined","question":"Did the agent analyze JavaScript or TypeScript patterns to identify a useful ESLint rule?","answer":"UNKNOWN","model":"small","timestamp":"2026-08-02T10:22:43.443Z","runid":"30743490324"}
+{"id":"rule_pr_created_or_noop","question":"Did the agent create a pull request for a new ESLint rule, or use noop when no suitable rule was found?","answer":"UNKNOWN","model":"small","timestamp":"2026-08-02T10:22:43.443Z","runid":"30743490324"}
