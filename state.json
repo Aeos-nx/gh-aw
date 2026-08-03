@@ -1,7 +1,8 @@
 {
   "counts": {
     "sub_agent_strategy": {
-      "delegated_sequential": 2
+      "delegated_sequential": 2,
+      "inline_strict": 1
     }
   },
   "runs": [
@@ -17,6 +18,13 @@
       "timestamp": "2026-08-02T20:15:53.694Z",
       "assignments": {
         "sub_agent_strategy": "delegated_sequential"
+      }
+    },
+    {
+      "run_id": "30850918500",
+      "timestamp": "2026-08-03T20:37:28.130Z",
+      "assignments": {
+        "sub_agent_strategy": "inline_strict"
       }
     }
   ]
